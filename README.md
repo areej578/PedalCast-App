@@ -97,6 +97,10 @@ static const String baseUrl = 'https://your-ngrok-url.ngrok-free.dev';
 | RMSE | 122.44957777364766 |     
 | R² Score | 0.5116016788466125 |
 
+## Demo Vedio
+
+https://github.com/user-attachments/assets/4288fac0-42ea-4425-ad91-2c4d8b1e6860
+
 ## What I Learned
 
 - End-to-end ML workflow: cleaning, feature engineering, model training, and evaluation
