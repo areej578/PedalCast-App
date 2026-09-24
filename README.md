@@ -101,6 +101,12 @@ static const String baseUrl = 'https://your-ngrok-url.ngrok-free.dev';
 
 https://github.com/user-attachments/assets/45392cf9-07fa-4c79-8b74-3d67b270f759
 
+## Prediction Screenshots
+
+<img width="720" height="1600" alt="high-pre" src="https://github.com/user-attachments/assets/9d7a62fa-7bf8-4569-b2d9-eb08dd1ac65a" />
+<img width="720" height="1600" alt="moderate - pred" src="https://github.com/user-attachments/assets/c0dcc485-18ee-4314-87bd-d5bd636bc8fe" />
+<img width="720" height="1600" alt="low-pre" src="https://github.com/user-attachments/assets/c5c9e248-318c-4dd8-82c9-9f7a1d5a819c" />
+
 ## What I Learned
 
 - End-to-end ML workflow: cleaning, feature engineering, model training, and evaluation
